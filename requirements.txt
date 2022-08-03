@@ -1,6 +1,0 @@
-flask
-gunicorn
-Jinja2
-numpy
-scipy
-Werkzeug
