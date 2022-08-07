@@ -20,7 +20,7 @@ VS Code IDE
 
 To develop a suite of predictive model I have worked on Decision tree classifier,
 GradientBoosting Classifier,SVM, KNN classifier,Random Forest classifier and based on accuracy score
-I develop model using Random Forest classifier for the prediction of fire susceptibility.
+I developed model using Random Forest classifier for the prediction of fire susceptibility.
 ## Deployment
 
 I have used Heroku to deploy this project.
